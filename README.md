@@ -40,7 +40,7 @@ python availability_scheduler.py
 6. Message arrival screen
 
 
-![](https://github.com/vaibhavk1992/covid_vaccine_notifier/blob/main/msg.jpeg=150x150)
+![](https://github.com/vaibhavk1992/covid_vaccine_notifier/blob/main/msg.jpeg =150x150)
 # Contributing
 
 1. Fork the repo on GitHub
