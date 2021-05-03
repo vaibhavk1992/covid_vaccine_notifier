@@ -37,8 +37,10 @@ References: https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-tri
 ```
 python availability_scheduler.py
 ```
-Message arrival screen
-![alt text](https://github.com/vaibhavk1992/covid_vaccine_notifier/blob/main/msg.jpeg)
+6. Message arrival screen
+
+
+![](https://github.com/vaibhavk1992/covid_vaccine_notifier/blob/main/msg.jpeg=150x150)
 # Contributing
 
 1. Fork the repo on GitHub
