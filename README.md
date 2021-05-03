@@ -1,4 +1,4 @@
-# covid-vaccination-notifier
+# Covid-vaccination-notifier
 Service to track COVID-19 vaccine availability in India.
 
 # Requirements
