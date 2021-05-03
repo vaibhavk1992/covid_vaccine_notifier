@@ -11,7 +11,7 @@ This service fetches the latest Covid Vaccinations Sessions data from [Cowin API
 ## Setup
 1. Clone the repository
 ```
-git clone 
+git clone https://github.com/vaibhavk1992/covid_vaccine_notifier.git
 ```
 2. Install 
 ```
