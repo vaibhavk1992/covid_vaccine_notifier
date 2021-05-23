@@ -35,7 +35,7 @@ References: https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-tri
 
 5. Run the Service
 ```
-python availability_scheduler.py
+python3 availability_scheduler.py
 ```
 6. Message arrival screen
 
